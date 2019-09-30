@@ -1,0 +1,26 @@
+Tan Solène
+
+Exercice 1:
+ Question 4:
+  Version 3.6.0
+ Question 5:
+  Le groupId permet d'identifier de façon unique le projet parmis les autres projets.
+  ArtifactId est le nom du jar sans la version.
+ Question 6:
+  Les éléments crées par maven qui sont des éxécutables.
+ Question 8:
+  Le classpath est le chemin qui mène vers la classe a exécuter.
+ Question 9:
+  La racine de l'arbre est project.
+ Question 13:
+  La balise maven.compiler.target sert à savoir la version des fichiers à éxécuter.
+
+Exercice 2:
+ Question 2: Il se passe "aucun attribut manifest principal dans target/td00-1.0-SNAPSHOT.jar" car il manque le classpath.
+
+Exercice 3:
+ Question 3: C'est une raccourci pour écrire "System.out.println();"
+ Question 4: Cela crée la méthode ToString.
+ Question 5: Cela crée la méthode main.
+ Question 6: Cela crée les méthodes "get()" et "set()" 
+
