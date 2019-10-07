@@ -22,5 +22,6 @@ Exercice 3:
  Question 3: C'est une raccourci pour écrire "System.out.println();"
  Question 4: Cela crée la méthode ToString.
  Question 5: Cela crée la méthode main.
- Question 6: Cela crée les méthodes "get()" et "set()" 
+ Question 6: Cela crée les méthodes "get()" et "set()".
+ test
 
