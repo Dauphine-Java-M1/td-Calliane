@@ -1,0 +1,8 @@
+Exercice 1:
+ 1. Il y a un constructeur par défaut.
+ 2. Les champs x et y ne sont pas accessibles; on peut soit changer leur visibilité de privé à package (peu conseillé) ou utiliser les getters et les setters.
+ 3. Pour éviter que les champs soient malencontreusement changés.
+ 4. Un accesseur est une méthode qui va nous permettre d'accéder aux variables de nos objets en lecture. Oui.
+ 5/6. Le constructeur sans paramètre ne fonctionne plus.
+ 7. Il faut ajouter une variable statique dans la classe initialisée à 0 et l'incrémentée dans le constructeur.
+ 8. Le compilateur sait quel constructeur appeler en fonction du type de ses paramètres.
