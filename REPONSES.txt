@@ -23,4 +23,10 @@ Exercice 3:
  Question 4: Cela crée la méthode ToString.
  Question 5: Cela crée la méthode main.
  Question 6: Cela crée les méthodes "get()" et "set()".
+ Question 7: On peut renommer.
+ 
 
+
+TD00 BIS
+
+ Question 5: On peut voir les modifications.
