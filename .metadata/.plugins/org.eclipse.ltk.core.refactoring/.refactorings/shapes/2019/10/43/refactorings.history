@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;fr.dauphine.ja.tansolene.shapes.Ring.rayonInt&apos; in &apos;fr.dauphine.ja.tansolene.shapes.Ring&apos;&#x0A;- Original project: &apos;shapes&apos;&#x0A;- Original element: &apos;fr.dauphine.ja.tansolene.shapes.Ring.rayonInt&apos;&#x0A;- Getter method name: &apos;getRayonInt&apos;&#x0A;- Setter method name: &apos;setRayonInt&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;rayonInt&apos;" flags="589830" getter="getRayonInt" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java&lt;fr.dauphine.ja.tansolene.shapes{Ring.java[Ring^rayonInt" insertion="0" setter="setRayonInt" stamp="1571658175372" version="1.0" visibility="1"/>
+</session>

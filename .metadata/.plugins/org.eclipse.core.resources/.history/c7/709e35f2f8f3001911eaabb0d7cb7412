@@ -1,0 +1,34 @@
+package fr.dauphine.ja.tansolene.shapes;
+
+public class Ring extends Circle{
+
+
+
+	private int rayonInt;
+	
+	
+	Ring(Point centre, int rayon, int rayonInt) {
+		super(centre, rayon);
+		this.setRayonInt(rayonInt);
+	}
+	
+	public boolean equals(Circle c){
+		if(c.getCentre()==this.getCentre() && c.getRayon()==this.getRayon()) return true;
+		return false;
+	}
+
+
+	@Override
+	public String toString() {
+		return super.toString() + "Ring [rayonInt=" + rayonInt + "]";
+	}
+
+	public int getRayonInt() {
+		return rayonInt;
+	}
+
+
+	public void setRayonInt(int rayonInt) {
+		this.rayonInt = rayonInt;
+	}
+}

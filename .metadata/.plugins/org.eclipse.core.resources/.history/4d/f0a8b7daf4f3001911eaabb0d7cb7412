@@ -1,0 +1,12 @@
+package fr.dauphine.ja.tansolene.shapes;
+
+public class Circle {
+
+	private Point centre;
+	private int rayon;
+	
+	Circle(Point centre, int rayon){
+		this.centre = centre;
+		this.rayon = rayon;
+	}
+}

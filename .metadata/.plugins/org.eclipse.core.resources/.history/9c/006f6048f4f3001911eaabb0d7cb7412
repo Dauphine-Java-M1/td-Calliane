@@ -45,11 +45,6 @@ public class Point {
 		
 	}
 	
-	public void translate( int dx, int dy){
-		this.x = dx;
-		this.y = dy;
-	}
-	
 	
 	public static void main(String[] args) {
 		Point p=new Point(3,4);

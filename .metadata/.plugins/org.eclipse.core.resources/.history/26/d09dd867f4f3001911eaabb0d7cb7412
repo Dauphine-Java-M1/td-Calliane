@@ -1,0 +1,5 @@
+package fr.dauphine.ja.tansolene.shapes;
+
+public class Circle {
+
+}

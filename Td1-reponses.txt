@@ -13,4 +13,8 @@ Exercice 2:
  3. l'indexOf compare les points comme equals et non leur valeur comme isSameAs.
 Exercice 3:
  2. Il ne se passe rien. Incrémenter la capacité ?
+Exercice 4:
+ 9. Oui
+Exercice 5:
+ 1. Oui car Ring est un cercle plus ou moins.
 
